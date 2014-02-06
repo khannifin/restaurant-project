@@ -2,9 +2,20 @@
 
 		background: #EBC299;
 		height: 336px;
-		
+
 		}
 
 .hours-daily {padding-left: 1em;}
 
+body {
+	background: url(../images/chalkboard.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1 {
+	color: white;
+}
 
